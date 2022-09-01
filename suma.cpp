@@ -2,8 +2,9 @@
 using namespace std;
 int main()
 {
-	cout<<endl<<endl;
-	cout<<"hola mundo soy Jair Escibar";
-	cout<<endl<<endl;
+	float A,B,C;
+	cin>>A>>B;
+	C=A+B;
+	cout<<C;
 	return(0);
 } 
